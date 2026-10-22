@@ -43,15 +43,6 @@ The saved model was evaluated on a held-out split of the available dataset.
 
 **Note:** This result comes from the current evaluation script. Further validation is needed to rule out data leakage and confirm that the evaluation setup matches the original model training process.
 
-## Screenshots
-
-### Application Dashboard
-
-![NewsGuard Dashboard](docs/Screenshots/dashboard.png)
-
-### Prediction Result
-
-![NewsGuard Prediction](docs/Screenshots/prediction.png)
 
 ## Project Structure
 
