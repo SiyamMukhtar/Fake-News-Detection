@@ -47,11 +47,11 @@ The saved model was evaluated on a held-out split of the available dataset.
 
 ### Application Dashboard
 
-![NewsGuard Dashboard](docs/screenshots/dashboard.png)
+![NewsGuard Dashboard](docs/Screenshots/dashboard.png)
 
 ### Prediction Result
 
-![NewsGuard Prediction](docs/screenshots/prediction.png)
+![NewsGuard Prediction](docs/Screenshots/prediction.png)
 
 ## Project Structure
 
